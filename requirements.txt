@@ -1,0 +1,3 @@
+# Only needed on Windows (zoneinfo needs the IANA timezone database).
+# On Ubuntu/WSL2 it is usually already available; keeping it is harmless.
+tzdata
